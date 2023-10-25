@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "TbWf4ntu2NAeWcffc6QRxxogsiG3XJaeR2LyitU3ujm0KbCWJVJjIs1YsPVMuOmjR89gXqkwzYiJJZ5bWY52Hg==",
+  "dgSpecHash": "QDOiAdw20m56we7KHt1crwTFFxDQsyeZI6J0Xpk07NM83mugN+klrhRBucYBfnEDVKaBQOGeRhIDdLjImmZERQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bquan\\Documents\\dotnet\\playground\\microservice_bk\\ShoppingCart\\ShoppingCart.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bquan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\bquan\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
